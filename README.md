@@ -20,11 +20,13 @@ https://tianchi.aliyun.com/dataset/87809
 
 ### 五、效果展示
 
-<img src="C:\Users\WenjunJia\AppData\Roaming\Typora\typora-user-images\image-20260219180437208.png" alt="image-20260219180437208" style="zoom:67%;" />
+<img src="./README.assets/image-20260219180437208.png" alt="image-20260219180437208" style="zoom:67%;" />
 
-<img src="C:\Users\WenjunJia\AppData\Roaming\Typora\typora-user-images\image-20260219180449509.png" alt="image-20260219180449509" style="zoom:67%;" />
+<img src="./README.assets/image-20260219180449509.png" alt="image-20260219180449509" style="zoom:67%;" />
 
-<img src="C:\Users\WenjunJia\AppData\Roaming\Typora\typora-user-images\image-20260219180501823.png" alt="image-20260219180501823" style="zoom:67%;" />
+<img src="./README.assets/image-20260219180501823.png" alt="image-20260219180501823" style="zoom:67%;" />
 
-<img src="C:\Users\WenjunJia\AppData\Roaming\Typora\typora-user-images\image-20260219180512354.png" alt="image-20260219180512354" style="zoom:67%;" />
+<img src="./README.assets/image-20260219180512354.png" alt="image-20260219180512354" style="zoom:67%;" />
+
+
 
