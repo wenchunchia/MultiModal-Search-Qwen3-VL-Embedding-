@@ -1,3 +1,5 @@
+本项目用于完成NLP课程作业。学号：25023051。
+
 ### 一、Qwen3-VL-Embedding 模型
 
 https://modelscope.cn/models/Qwen/Qwen3-VL-Embedding-8B
