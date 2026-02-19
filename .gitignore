@@ -1,0 +1,25 @@
+# 模型权重（大文件）
+*.safetensors
+*.bin
+*.pt
+
+# 图片数据集
+images/
+
+# 向量数据库
+*.db
+
+# 压缩包
+*.zip
+
+# 隐藏缓存文件
+.msc
+.mv
+
+# 结果图和日志
+result_*.png
+embed_log.txt
+
+# Python缓存
+__pycache__/
+*.pyc
